@@ -1,8 +1,7 @@
 # robotics_pkg
 A ROS package for AUV robotic arm.
 
-## System prerequisites
-Please ensure your system meets requirements beforehand.
+## Recommended System
 - [Operation System]  Ubuntu 20.04 (Focal)
 - [Software]  ROS Noetic Ninjemys
 
